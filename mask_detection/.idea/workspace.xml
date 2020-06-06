@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a771e0af-cf3d-4c3a-b8d2-79d7d6fd3a79" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/WIT-Hackathon-Team-Unicorn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WIT-Hackathon-Team-Unicorn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropped_images/398edeac-a6a1-11ea-ab6d-acde48001122.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/example_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/example_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/example_03.png" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="75" column="56" lean-forward="true" selection-start-line="75" selection-start-column="56" selection-end-line="75" selection-end-column="56" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="face_matching.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/face_matching.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="email_notification.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/email_notification.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="detect_mask_video.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/detect_mask_video.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1106">
+              <caret line="111" column="15" selection-start-line="111" selection-start-column="15" selection-end-line="111" selection-end-column="15" />
+              <folding>
+                <element signature="e#71#142#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/detect_mask_video.py" />
+        <option value="$PROJECT_DIR$/email_notificatopn.py" />
+        <option value="$PROJECT_DIR$/face_matching.py" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/email_notification.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="947" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WIT-Hackathon-Team-Unicorn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WIT-Hackathon-Team-Unicorn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WIT-Hackathon-Team-Unicorn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WIT-Hackathon-Team-Unicorn" type="462c0819:PsiDirectoryNode" />
+              <item name="actual_faces" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="WIT-Hackathon-Team-Unicorn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detect_mask_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a771e0af-cf3d-4c3a-b8d2-79d7d6fd3a79" name="Default" comment="" />
+      <created>1591277519845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591277519845</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="947" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" weight="0.32941177" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32941177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/detect_mask_video.py</url>
+          <line>4</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cropped_images/fbe7b89e-a676-11ea-835d-acde48001122.png" />
+    <entry file="file://$PROJECT_DIR$/cropped_images/faf63228-a676-11ea-a3aa-acde48001122.png" />
+    <entry file="file://$PROJECT_DIR$/cropped_images/63c9474a-a677-11ea-8e76-acde48001122.png" />
+    <entry file="file://$PROJECT_DIR$/cropped_images/83584ad4-a677-11ea-a1ae-acde48001122.png" />
+    <entry file="file://$PROJECT_DIR$/cropped_images/aa8d0bee-a677-11ea-ad98-acde48001122.png" />
+    <entry file="file://$PROJECT_DIR$/cropped_images/2e7c50c6-a676-11ea-a772-acde48001122.png" />
+    <entry file="file://$PROJECT_DIR$/cropped_images/c9300a1a-a677-11ea-8670-acde48001122.png" />
+    <entry file="file://$PROJECT_DIR$/cropped_images/e98a0b9e-a677-11ea-89a5-acde48001122.png" />
+    <entry file="file://$PROJECT_DIR$/cropped_images/fd1bf0b4-a677-11ea-9cb8-acde48001122.png" />
+    <entry file="file://$PROJECT_DIR$/cropped_images/c6890dfa-a677-11ea-923a-acde48001122.png" />
+    <entry file="file://$PROJECT_DIR$/cropped_images/f0fd0aee-a699-11ea-8c6f-acde48001122.png" />
+    <entry file="file://$PROJECT_DIR$/detect_mask_image.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/af24cf38-a69b-11ea-b204-acde48001122.png" />
+    <entry file="file://$PROJECT_DIR$/cropped_images/af497fc2-a69b-11ea-b36a-acde48001122.png" />
+    <entry file="file://$PROJECT_DIR$/cropped_images/aefcf80a-a69b-11ea-bed4-acde48001122.png" />
+    <entry file="file://$PROJECT_DIR$/cropped_images/da6b1fc6-a69b-11ea-b346-acde48001122.png" />
+    <entry file="file://$PROJECT_DIR$/cropped_images/2e928b8c-a69c-11ea-ba0d-acde48001122.png" />
+    <entry file="file://$PROJECT_DIR$/cropped_images/2e4e6954-a69c-11ea-8a10-acde48001122.png" />
+    <entry file="file://$PROJECT_DIR$/detect_mask_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1106">
+          <caret line="111" column="15" selection-start-line="111" selection-start-column="15" selection-end-line="111" selection-end-column="15" />
+          <folding>
+            <element signature="e#71#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/15ea5782-a69d-11ea-9fd6-acde48001122.png" />
+    <entry file="file://$PROJECT_DIR$/cropped_images/9b00030a-a69c-11ea-9ec6-acde48001122.png" />
+    <entry file="file://$PROJECT_DIR$/cropped_images/0c55a52c-a69e-11ea-9cbb-acde48001122.png" />
+    <entry file="file://$PROJECT_DIR$/cropped_images/4838629c-a69d-11ea-a2aa-acde48001122.png" />
+    <entry file="file://$PROJECT_DIR$/cropped_images/398edeac-a6a1-11ea-ab6d-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/28fdbce6-a70c-11ea-a979-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/f1f850e8-a70c-11ea-9702-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/c27e43b8-a70c-11ea-be9f-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/88af9668-a70d-11ea-87a5-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actual_faces/vaishnavi.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/e6a86dec-a70f-11ea-b51d-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/f23e13a6-a70e-11ea-b37b-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/d155e034-a70f-11ea-b60e-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/a6b49026-a70f-11ea-b2d9-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/b39096f4-a710-11ea-8cc6-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/b07cd522-a710-11ea-abea-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/7d8412f8-a70f-11ea-9ebe-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/12135810-a711-11ea-bbaa-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/3be0f468-a711-11ea-b29c-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actual_faces/mrinalini.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/7a65c04c-a71e-11ea-81ca-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/e312abfa-a71e-11ea-9792-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/124d19ca-a71f-11ea-8bd8-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/9bbf444c-a71f-11ea-8751-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/9a507048-a71e-11ea-be88-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/1de1b6cc-a71f-11ea-9eea-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/3eb48158-a724-11ea-807c-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropped_images/6d4c479c-a724-11ea-8591-acde48001122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face_matching.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/example_01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="75" column="56" lean-forward="true" selection-start-line="75" selection-start-column="56" selection-end-line="75" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email_notification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
