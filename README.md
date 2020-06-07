@@ -78,7 +78,7 @@ Our intelligent face mask detection system hence assists a workplace in enforcin
 - Sends notification to a person in mere few seconds
 
 ### Why is Catalyst a novel solution?
-The pandemic COVID19 has pushed humanity to adjust to the new normal, which requires assistance from technology. Catalyst offers a set a solutions to live with the pandemic easily and efficiently. The novel solution Catalyst enforces people to follow WHO guidelines with the help of Artifical intelligence, assists people adjust to the new normal and reduces the risk of spreading the pandemic.
+The pandemic COVID19 has pushed humanity to adjust to the new normal, which requires assistance from technology. There is no solution till date that identifies the exact person who is not wearing a mask, tags him with his ID and notifies him instantly to wear a mask.Allowing a person inside the premises only if he/she is wearing a face mask does not yet exist currently. Catalyst offers a set a solutions to live with the pandemic easily and efficiently. The novel solution Catalyst enforces people to follow WHO guidelines with the help of Artifical intelligence, assists people adjust to the new normal and reduces the risk of spreading the pandemic. 
  
 ### Future Roadmaps
 <img src="/future_roadmap_part1.png"  width="400" height="700"><img src="/future_roadmap_part2.png"  width="400" height="700">
