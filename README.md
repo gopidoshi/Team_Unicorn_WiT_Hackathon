@@ -83,6 +83,10 @@ Our intelligent face mask detection system hence assists a workplace in enforcin
 - Retrives the details of a person not wearing a facemask 
 - Sends notification to a person in mere few seconds
 
+#### Solution URL
+The solution has been deployed on the IBM cloud foundry:
+https://managerial.eu-gb.cf.appdomain.cloud/
+
 ### Why is Catalyst a novel solution?
 The pandemic COVID19 has pushed humanity to adjust to the new normal, which requires assistance from technology. There is no solution till date that identifies the exact person who is not wearing a mask, tags him with his ID and notifies him instantly to wear a mask.Allowing a person inside the premises only if he/she is wearing a face mask does not yet exist currently. Catalyst offers a set a solutions to live with the pandemic easily and efficiently. The novel solution Catalyst enforces people to follow WHO guidelines with the help of Artifical intelligence, assists people adjust to the new normal and reduces the risk of spreading the pandemic. 
  
