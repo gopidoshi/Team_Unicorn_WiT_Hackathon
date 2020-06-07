@@ -1,10 +1,4 @@
-# Submission name
-
-[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack) [![Website](https://img.shields.io/badge/View-Website-blue)](https://code-and-response.github.io/Project-Sample/)
-
-A basic GitHub repository example for Call for Code submissions and those projects that join the Code and Response initiative. Not all sections or files are required. You can make this as simple or as in-depth as you need.
-
-*Read this in other languages: [English](README.md), [한국어](README.ko.md), [português](README.pt_br.md).*
+# Catalyst
 
 ## Contents
 
@@ -14,142 +8,110 @@ A basic GitHub repository example for Call for Code submissions and those projec
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
-1. [Running the tests](#running-the-tests)
-1. [Live demo](#live-demo)
-1. [Built with](#built-with)
-1. [Contributing](#contributing)
-1. [Versioning](#versioning)
-1. [Authors](#authors)
-1. [License](#license)
-1. [Acknowledgments](#acknowledgments)
 
 ## Short description
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time,  keeping them engaged, entertained, and on top of their education is important.
+Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing norms. As a result, places like offices, schools, hospitals, banks and super markets etc. need to manually monitor if each person is practicing the social distancing norms like wearing a PPE face mask, maintaining a minimum distance of 6feet, and avoiding crowd. This is a labourious task.
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+Technology can help crowded public places like hospitals,banks and super markets etc. to offer a virtual queue management portal, where a person can book a slot online and visit the place in the scheduled appointment.
+
+Places like offices and schools have to manually monitor and make sure a person is always wearing a face mask.
+Cutting edge technologies like ML/AI plays a vital role in automating this process of identifying the person who is not wearing a face mask and notifying him/her.
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
-
+We have designed a ML/AI driven novel solution backed by IBM Cloud foundry:
+* A digital queuing system to avoid crowding in public places and allow only people who wear a face mask inside the premises.
+* In workplace and schools, identify a person who is not wearing a face mask and notify him/her.
 ## Demo video
 
-[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+{}
 
 ## The architecture
-
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
-
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
-
+![Alt text](/hackathon_archi5.png)
 ## Long description
 
-[More detail is available here](DESCRIPTION.md)
+### USE CASE 1: Digital-Kataar (Digi-Kataar)
+ 
+Mekhala wants to visit a hospital to see her relative. She logs in to Digital-Kataar , a Web App , where she books a slot for herself and receives a confirmation in the form of a QR code.
+ 
+Now, Mekhala reaches the hospital at the time of her slot. At the very entry of the hospital, she is screened by a CCTV camera which detects whether she has worn a PPE face mask or not. She is allowed inside the hospital premises only when the camera detects her wearing a mask. Once allowed, she now enters the premises and meets the receptionist, who confirms her slot and lets her visit her relative in the ward.
+ 
+In this time of COVID crisis, when more people are not allowed to enter any premises at a particular time, Digi-Kataar helped Mekhala to avoid a long queue, visit her relative in a timely manner and ensure an effective use of time, with a mask.
+ 
+This application can be extended/relevant places like supermarkets, various famous shops, boutiques, clothing emporiums, Post offices, and other Government offices where general public frequently visits.
 
-## Project roadmap
+#### Future Enhancements
+- CCTV cameras enabled with intelligent mask detection to be integrated with a toll gate which automatically opens only when a   person is detected with mask.
 
-![Roadmap](roadmap.jpg)
+#### Key Features
+- Virtual Queuing system
+- Flexible slot booking facility
+- QR code based token for easy and faster verification
+- AI powered CCTV camera 
+- Accurate face recognition and face mask prediction 
 
-## Getting started
+### USE CASE 2: Animisha
+ 
+This is an office/workplace specific solution where we are sure that each employee has an ID associated to him/her.
+ 
+Manyu is an employee of Aapta Global Solutions. His office is equipped with multiple CCTV cameras at every other significant place like bay area, cafeteria, workstation and walkways. These CCTV footages are fed to an intelligent mask detection system which detects a person’s face and predicts whether he/she is wearing a PPE face mask or not.
+ 
+Suppose Manyu moves around the office without wearing a face mask, one of the cameras detect him, captures his face and compares  it with the photographs in the Employee Database. This database consists of all relevant details of an employee including photograph, email address, contact information and manager. Once his face matches with one of the photos, all his details are retrieved and he is notified via email/phone which prompts him to wear a face mask. Upon exceeding the maximum number of notifications to Manyu, his details are escalated to the security compliance team which would take further necessary actions.
+ 
+This not only ensures that Manyu always wears a mask in the office premises but also maintains a safe environment to other employees from catching any infections or exposures to the virus, which is very crucial during the time of this pandemic.
+ 
+Our intelligent face mask detection system hence assists a workplace in enforcing strict social distancing norms (not sure if it’s a perfect word) along with ensuring the safety of its staff, vigilantly.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+#### Future Enhancements
+- More accuracy for face recognition and face matching algorithms.
+
+#### Key Features 
+- AI powered CCTV camera
+- Detects a person's face with greater accuracy
+- Meticulously detects a person not wearing a facemask
+- Retrives the details of a person not wearing a facemask 
+- Sends notification to a person in mere few seconds
+
+### Why is Catalyst a novel solution?
+The pandemic COVID19 has pushed humanity to adjust to the new normal, which requires assistance from technology.Catalyst offers a set a solutions to live with the pandemic easily and efficiently. The novel solution Catalyst enforces people to follow WHO guidelines with the help of Artifical intelligence, assists people adjust to the new normal and reduces the risk of spreading the pandemic.
+ 
+### Future Roadmaps
+<img src="/future_roadmap_part1.png"  width="400" height="700"><img src="/future_roadmap_part2.png"  width="400" height="700">
+
+## Getting started for mask detection and face comparison
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Python 3.6.8
 
-```bash
-dnf install wget
-wget http://www.example.com/install.sh
-bash install.sh
-```
+### Installation and running the code
 
-### Installing
+pip install -r requirements.txt
 
-A step by step series of examples that tell you how to get a development env running
+python app.py
 
-Say what the step will be, for example
+Launch http://0.0.0.0:5000 in your browser
 
-```bash
-export TOKEN="fffd0923aa667c617a62f5A_fake_token754a2ad06cc9903543f1e85"
-export EMAIL="jane@example.com"
-dnf install npm
-node samplefile.js
-Server running at http://127.0.0.1:3000/
-```
+## Getting started for Queuing system
 
-And repeat
+### Prerequisites
 
-```bash
-curl localhost:3000
-Thanks for looking at Code-and-Response!
-```
+Node.JS
 
-End with an example of getting some data out of the system or using it for a little demo
+### Installation and running the code
 
-## Running the tests
+npm install
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why, if you were using something like `mocha` for instnance
-
-```bash
-npm install mocha --save-dev
-vi test/test.js
-./node_modules/mocha/bin/mocha
-```
-
-### And coding style tests
-
-Explain what these tests test and why, if you chose `eslint` for example
-
-```bash
-npm install eslint --save-dev
-npx eslint --init
-npx eslint sample-file.js
-```
-
-## Live demo
-
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/)
+npm run
 
 ## Built with
-
-* [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-* [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-* [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/Code-and-Response/Project-Sample/graphs/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details
-
-## Acknowledgments
-
-* Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
+- IBM Cloud Foundry App
+- IBM Toolchain
+- IBM Continuous Delivery
+- IBM GitRepos and Issue Tracking
+- IBM Eclipse Orion Web IDE
