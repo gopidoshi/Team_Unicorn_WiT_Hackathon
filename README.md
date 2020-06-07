@@ -109,9 +109,22 @@ pip install -r requirements.txt
 
 python app.py
 
-<The application will run on http://0.0.0.0:5000>
-
 Launch http://0.0.0.0:5000 in your browser
+
+## Getting started for Queuing system
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+Node.JS
+
+### Installation and running the code
+
+npm install
+
+npm run
+
 
 ## Built with
 - IBM Cloud Foundry App
