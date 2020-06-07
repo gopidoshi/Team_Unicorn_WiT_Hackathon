@@ -121,7 +121,6 @@ npm install
 
 npm run
 
-
 ## Built with
 - IBM Cloud Foundry App
 - IBM Toolchain
