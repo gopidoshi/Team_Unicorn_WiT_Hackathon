@@ -33,7 +33,7 @@ can be detected and identified using AI-enabled edge intelligence and analytics 
 
 ## Demo video
 
-{}
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/ddgFhE_B66Y)
 
 ## The architecture
   ![Alt text](/hackathon_archi_part2.png)
@@ -68,7 +68,7 @@ The application of this use case can be extended to relevant places like superma
 - AI powered CCTV camera for mask prediction
 
 #### Solution URL
-The solution has been deployed on the IBM cloud foundry:
+The solution has been deployed on the IBM cloud :
 https://managerial.eu-gb.cf.appdomain.cloud/
 
 ### USE CASE 2:
@@ -94,7 +94,7 @@ Our intelligent face mask detection system hence assists a workplace in enforcin
 - Sends notification to a person in mere few seconds
 
 #### Solution URL
-The solution has been deployed on the IBM cloud foundry:
+The solution has been deployed on the IBM cloud:
 https://managerial.eu-gb.cf.appdomain.cloud/
 
 #### Scalability
@@ -110,21 +110,8 @@ Catalyst offeres solution to help busineses to follow WHO guidelines of avoid cr
 - Technologies enabling businesses to allow a person inside the premises only if he/she has a pass and is wearing a face mask does not yet exist currently.
  
 ### Project roadmap
-<img src="/future_roadmap_part1.png"  width="400" height="700"><img src="/future_roadmap_part2.png"  width="400" height="700">
+<img src="/future_roadmap_mask_detection.jpg"  width="400" height="700"><img src="/future_roadmap_fastpass.jpg"  width="400" height="700">
 
-## Getting started for Queuing system
-
-### Prerequisites
-
-Node.JS
-
-### Installation and running the code
-
-cd fastpassAndUI
-
-npm install --registry=https://registry.npmjs.org
-
-live-server --entry-file=./index.html --registry=https://registry.npmjs.org
 
 ## Getting started for mask detection and face comparison
 
@@ -133,16 +120,42 @@ live-server --entry-file=./index.html --registry=https://registry.npmjs.org
 Python 3.6.8
 
 ### Installation and running the code
+```
+git clone https://github.com/gopidoshi/Team_Unicorn_WiT_Hackathon.git
+```
+```
 cd mask_detection
-
+```
+```
 pip install -r requirements.txt
-
+```
+```
 python app.py
-
+```
 Launch http://0.0.0.0:5000 in your browser
 
 For the application to recognise your face: Add your recent photograph in the *"actual_faces"* folder and update your relevant  information in *"employee_database.xlsx"* 
 
+## Getting started for Fastpass Queue Scheduling system
+
+### Prerequisites
+
+Node.JS
+
+### Installation and running the code
+```
+git clone https://github.com/gopidoshi/Team_Unicorn_WiT_Hackathon.git
+```
+```
+cd fastpass_and_UI
+```
+```
+npm install --registry=https://registry.npmjs.org
+```
+```
+live-server --entry-file=./index.html --port=3000 --registry=https://registry.npmjs.org
+```
+Launch http://0.0.0.0:3000 in your browser
 
 
 ## IBM Services used
