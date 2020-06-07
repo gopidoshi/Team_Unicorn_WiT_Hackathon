@@ -40,14 +40,7 @@ We have designed a ML/AI driven novel solution backed by IBM Cloud foundry:
 {}
 
 ## The architecture
-
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
-
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
-
+[architecture](/hackathon_archi5.png)
 ## Long description
 
 ### USE CASE 1: Digital-Kataar (Digi-Kataar)
