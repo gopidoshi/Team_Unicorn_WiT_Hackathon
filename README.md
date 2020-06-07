@@ -85,8 +85,8 @@ Our intelligent face mask detection system hence assists a workplace in enforcin
 - Retrives the details of a person not wearing a facemask 
 - Sends notification to a person in mere few seconds
 
-### Why is Catalyst the best solution ever?
-<to be filled>
+### Why is Catalyst a novel solution?
+The pandemic COVID19 has pushed humanity to adjust to the new normal, which requires assistance from technology.Catalyst offers a set a solutions to live with the pandemic easily and efficiently. Enforcing people to follow WHO guidelines with the help of Artifical intelligence, assists people adjust to the new normal and reduces the risk of spread of the pandemic.
  
 ### Future Roadmaps
 <img src="/future_roadmap_part1.png"  width="400" height="700"><img src="/future_roadmap_part2.png"  width="400" height="700">
