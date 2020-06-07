@@ -89,7 +89,7 @@ Our intelligent face mask detection system hence assists a workplace in enforcin
 <to be filled>
  
 ### Future Roadmaps
-![Alt text](/future_roadmap_part1.png =100x)
+![Alt text](/future_roadmap_part1.png =100x20)
 
 ## Getting started for mask detection and face comparison
 
