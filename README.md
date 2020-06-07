@@ -35,13 +35,13 @@ We have designed a ML/AI driven novel solution backed by IBM Cloud foundry:
 ![Alt text](/hackathon_archi5.png)
 ## Long description
 
-### USE CASE 1: Digital-Kataar (Digi-Kataar)
+### USE CASE 1:
  
 Mekhala wants to visit a hospital to see her relative. She logs in to Digital-Kataar , a Web App , where she books a slot for herself and receives a confirmation in the form of a QR code.
  
 Now, Mekhala reaches the hospital at the time of her slot. At the very entry of the hospital, she is screened by a CCTV camera which detects whether she has worn a PPE face mask or not. She is allowed inside the hospital premises only when the camera detects her wearing a mask. Once allowed, she now enters the premises and meets the receptionist, who confirms her slot and lets her visit her relative in the ward.
  
-In this time of COVID crisis, when more people are not allowed to enter any premises at a particular time, Digi-Kataar helped Mekhala to avoid a long queue, visit her relative in a timely manner and ensure an effective use of time, with a mask.
+In this time of COVID crisis, when more people are not allowed to enter any premises at a particular time, catalyst helped Mekhala to avoid a long queue, visit her relative in a timely manner and ensure an effective use of time, with a mask.
  
 This application can be extended/relevant places like supermarkets, various famous shops, boutiques, clothing emporiums, Post offices, and other Government offices where general public frequently visits.
 
@@ -55,7 +55,7 @@ This application can be extended/relevant places like supermarkets, various famo
 - AI powered CCTV camera 
 - Accurate face recognition and face mask prediction 
 
-### USE CASE 2: Animisha
+### USE CASE 2:
  
 This is an office/workplace specific solution where we are sure that each employee has an ID associated to him/her.
  
