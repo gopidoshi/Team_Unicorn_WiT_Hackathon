@@ -89,6 +89,18 @@ The pandemic COVID19 has pushed humanity to adjust to the new normal, which requ
 ### Project roadmap
 <img src="/future_roadmap_part1.png"  width="400" height="700"><img src="/future_roadmap_part2.png"  width="400" height="700">
 
+## Getting started for Queuing system
+
+### Prerequisites
+
+Node.JS
+
+### Installation and running the code
+
+npm install
+
+npm run
+
 ## Getting started for mask detection and face comparison
 
 ### Prerequisites
@@ -105,17 +117,7 @@ Launch http://0.0.0.0:5000 in your browser
 
 For the application to recognise your face: Add your recent photograph in the *"actual_faces"* folder and update your relevant  information in *"employee_database.xlsx"* 
 
-## Getting started for Queuing system
 
-### Prerequisites
-
-Node.JS
-
-### Installation and running the code
-
-npm install
-
-npm run
 
 ## Built with
 - IBM Cloud Foundry App
