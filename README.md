@@ -93,8 +93,6 @@ The pandemic COVID19 has pushed humanity to adjust to the new normal, which requ
 
 ## Getting started for mask detection and face comparison
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
 Python 3.6.8
@@ -108,8 +106,6 @@ python app.py
 Launch http://0.0.0.0:5000 in your browser
 
 ## Getting started for Queuing system
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
