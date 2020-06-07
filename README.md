@@ -17,10 +17,10 @@ Part of the World Health Organization's guidance on limiting further spread of C
 
 ### How can technology help?
 
-Technology can help crowded public places like hospitals,banks and super markets etc. to offer a virtual queue management portal, where a person can book a slot online and visit the place in the scheduled appointment.
+Technology can help crowded public places like hospitals,banks and super markets etc. to offer a virtual queue management portal. Here a buisiness/hospital can register in this portal and provide the operational timings.A customer/ hospital visitor can book a slot online and visit the place in the scheduled appointment.
 
 Places like offices and schools have to manually monitor and make sure a person is always wearing a face mask.
-Cutting edge technologies like ML/AI plays a vital role in automating this process of identifying the person who is not wearing a face mask and notifying him/her.
+Cutting edge technologies like ML/AI plays a vital role in automating this process of identifying the person who is not wearing a face mask and notifying him/her swiftly.
 
 ### The idea
 
@@ -100,6 +100,8 @@ pip install -r requirements.txt
 python app.py
 
 Launch http://0.0.0.0:5000 in your browser
+
+For the application to recognise your face: Add your recent photograph in the *"actual_faces"* folder and update your relevant  information in *"employee_database.xlsx"* 
 
 ## Getting started for Queuing system
 
