@@ -89,7 +89,7 @@ Our intelligent face mask detection system hence assists a workplace in enforcin
 <to be filled>
  
 ### Future Roadmaps
-![Alt text](/https://github.com/gopidoshi/Team_Unicorn_WiT_Hackathon/blob/feature/ReadmeUpdate/Blue%20Timeline%20Cycle%20Presentation%20(1).pdf)
+![Alt text](/Blue Timeline Cycle Presentation (1).pdf)
 
 ## Getting started for mask detection and face comparison
 
