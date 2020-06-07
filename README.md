@@ -42,7 +42,7 @@ We have designed a ML/AI driven novel solution backed by IBM Cloud foundry:
 
 ### USE CASE 1:
  
-Mekhala wants to visit a hospital to see her relative. She logs in to Digital-Kataar , a Web App , where she books a slot for herself and receives a confirmation in the form of a QR code.
+Mekhala wants to visit a hospital to see her relative. She logs in to Catalyst web app , where she books a slot for herself and receives a confirmation in the form of a QR code.
  
 Now, Mekhala reaches the hospital at the time of her slot. At the very entry of the hospital, she is screened by a CCTV camera which detects whether she has worn a PPE face mask or not. She is allowed inside the hospital premises only when the camera detects her wearing a mask. Once allowed, she now enters the premises and meets the receptionist, who confirms her slot and lets her visit her relative in the ward.
  
