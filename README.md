@@ -32,7 +32,9 @@ We have designed a ML/AI driven novel solution backed by IBM Cloud foundry:
 {}
 
 ## The architecture
+![Alt text](/hackathon_archi_part2.png)
 ![Alt text](/hackathon_archi5.png)
+
 ## Long description
 
 ### USE CASE 1:
