@@ -8,6 +8,7 @@
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
+1. [Built with](built-with)
 
 ## Short description
 
@@ -46,7 +47,8 @@ Mekhala wants to visit a hospital to see her relative. She logs in to Digital-Ka
 Now, Mekhala reaches the hospital at the time of her slot. At the very entry of the hospital, she is screened by a CCTV camera which detects whether she has worn a PPE face mask or not. She is allowed inside the hospital premises only when the camera detects her wearing a mask. Once allowed, she now enters the premises and meets the receptionist, who confirms her slot and lets her visit her relative in the ward.
  
 In this time of COVID crisis, when more people are not allowed to enter any premises at a particular time, catalyst helped Mekhala to avoid a long queue, visit her relative in a timely manner and ensure an effective use of time, with a mask.
- 
+
+#### Scalability
 This application can be extended/relevant places like supermarkets, various famous shops, boutiques, clothing emporiums, Post offices, and other Government offices where general public frequently visits.
 
 #### Future Enhancements
@@ -84,7 +86,7 @@ Our intelligent face mask detection system hence assists a workplace in enforcin
 ### Why is Catalyst a novel solution?
 The pandemic COVID19 has pushed humanity to adjust to the new normal, which requires assistance from technology. There is no solution till date that identifies the exact person who is not wearing a mask, tags him with his ID and notifies him instantly to wear a mask.Allowing a person inside the premises only if he/she is wearing a face mask does not yet exist currently. Catalyst offers a set a solutions to live with the pandemic easily and efficiently. The novel solution Catalyst enforces people to follow WHO guidelines with the help of Artifical intelligence, assists people adjust to the new normal and reduces the risk of spreading the pandemic. 
  
-### Future Roadmaps
+### Project roadmap
 <img src="/future_roadmap_part1.png"  width="400" height="700"><img src="/future_roadmap_part2.png"  width="400" height="700">
 
 ## Getting started for mask detection and face comparison
