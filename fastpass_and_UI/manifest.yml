@@ -1,0 +1,12 @@
+---
+applications:
+- instances: 1
+  timeout: 180
+  name: managerial
+  buildpack: sdk-for-nodejs
+  command: npm start
+  memory: 512MB
+  domain: eu-gb.cf.appdomain.cloud
+  host: managerial
+  env:
+    OPTIMIZE_MEMORY: true

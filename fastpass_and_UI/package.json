@@ -1,0 +1,25 @@
+{
+  "name": "website-wit",
+  "version": "1.0.0",
+  "description": "customermanagement",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --entry-file=./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopidoshi/Website-WIT.git"
+  },
+  "keywords": [
+    "queue"
+  ],
+  "author": "Gopi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gopidoshi/Website-WIT/issues"
+  },
+  "homepage": "https://github.com/gopidoshi/Website-WIT#readme",
+  "dependencies": {
+    "live-server": ""
+  }
+}
