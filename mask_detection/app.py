@@ -111,9 +111,9 @@ def video_mask_detection():
 
     # initialize the video stream and allow the camera sensor to warm up
     print("[INFO] starting video stream...")
-    # vs = VideoStream(src=0).start()
-    vs = FileVideoStream("video_mri.mov").start()
-    fileStream = True
+    vs = VideoStream(src=0).start()
+    # vs = FileVideoStream("video_mri.mov").start()
+    # fileStream = True
     time.sleep(2.0)
 
     val = [1]
@@ -122,8 +122,8 @@ def video_mask_detection():
     # loop over the frames from the video stream
     while True:
         
-        if fileStream and not vs.more():
-            break
+        # if fileStream and not vs.more():
+        #     break
         
         try:
             frame = vs.read()
