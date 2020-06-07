@@ -49,7 +49,7 @@ Now, Mekhala reaches the hospital at the time of her slot. At the very entry of 
 In this time of COVID crisis, when more people are not allowed to enter any premises at a particular time, catalyst helped Mekhala to avoid a long queue, visit her relative in a timely manner and ensure an effective use of time, with a mask.
 
 #### Scalability
-This application can be extended/relevant places like supermarkets, various famous shops, boutiques, clothing emporiums, Post offices, and other Government offices where general public frequently visits.
+This application can be extended to relevant places like supermarkets, various famous shops, boutiques, clothing emporiums, Post offices, and other Government offices where general public frequently visits.
 
 #### Future Enhancements
 - CCTV cameras enabled with intelligent mask detection to be integrated with a toll gate which automatically opens only when a   person is detected with mask.
