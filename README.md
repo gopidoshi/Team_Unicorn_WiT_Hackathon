@@ -33,7 +33,7 @@ can be detected and identified using AI-enabled edge intelligence and analytics 
 
 ## Demo video
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/ddgFhE_B66Y)
+[![Watch the video](https://img.youtube.com/vi/ddgFhE_B66Y/maxresdefault.jpg)](https://youtu.be/ddgFhE_B66Y)
 
 ## The architecture
   ![Alt text](/hackathon_archi_part2.png)
@@ -153,9 +153,9 @@ cd fastpass_and_UI
 npm install --registry=https://registry.npmjs.org
 ```
 ```
-live-server --entry-file=./index.html --port=3000 --registry=https://registry.npmjs.org
+npm start
 ```
-Launch http://0.0.0.0:3000 in your browser
+Launch http://0.0.0.0:8080 in your browser. If 8080 will be already in use, it will automatically try different port.
 
 
 ## IBM Services used
