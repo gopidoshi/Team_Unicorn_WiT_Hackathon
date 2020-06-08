@@ -3,8 +3,8 @@ from exchangelib import Message, Mailbox, Attendee
 try:
     # credentials = Credentials('kb_vaishnavi@optum.com', 'XXXXXXX')
     # account = Account('kb_vaishnavi@optum.com', credentials=credentials, autodiscover=True)
-    credentials = Credentials('mrinalini_m@optum.com', 'XXXX')
-    account = Account('mrinalini_m@optum.com', credentials=credentials, autodiscover=True)
+    credentials = Credentials('abc@wit.com', 'XXXX')
+    account = Account('abc@wit.com', credentials=credentials, autodiscover=True)
 except:
     pass
 

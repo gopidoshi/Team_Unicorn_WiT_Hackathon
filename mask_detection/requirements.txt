@@ -7,4 +7,5 @@ opencv_python==4.1.1.26
 tensorflow==1.14.0
 exchangelib==3.2.0
 imutils==0.5.3
-dlib===19.19.0
+dlib==19.19.0
+xlrd==1.2.0
