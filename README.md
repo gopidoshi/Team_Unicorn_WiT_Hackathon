@@ -8,7 +8,7 @@
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
-1. [Built with](built-with)
+1. [IBM Services used](#ibm-services-used)
 
 ## Short description
 
@@ -121,7 +121,11 @@ Python 3.6.8
 
 ### Installation and running the code
 
-NOTE : Before running the code, for the application to recognise your face: Add your recent photograph in the *"actual_faces"* folder and update your relevant  information in *"employee_database.xlsx"* 
+NOTE : Before running the code, for the application to recognise your face: 
+1) Add your recent photograph in the *"actual_faces"* folder 
+2) Rename the photo as your Employee_ID
+3) Add your details in the  *"employee_database.xlsx"* 
+
 
 ```
 git clone https://github.com/gopidoshi/Team_Unicorn_WiT_Hackathon.git

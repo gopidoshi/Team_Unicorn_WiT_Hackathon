@@ -28,6 +28,8 @@ def get_names():
     employee_name = 'not available'
     email_id = ''
     list_personname = []
+    if not os.path.exists('./cropped_images'):
+        os.makedirs('./cropped_images')
     filenames = listdir('./cropped_images/')
     print(filenames)
     if '.DS_Store' in filenames:
