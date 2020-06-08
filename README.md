@@ -121,7 +121,7 @@ Python 3.6.8
 
 ### Installation and running the code
 
-Befor running the code, for the application to recognise your face: Add your recent photograph in the *"actual_faces"* folder and update your relevant  information in *"employee_database.xlsx"* 
+NOTE : Before running the code, for the application to recognise your face: Add your recent photograph in the *"actual_faces"* folder and update your relevant  information in *"employee_database.xlsx"* 
 
 ```
 git clone https://github.com/gopidoshi/Team_Unicorn_WiT_Hackathon.git
