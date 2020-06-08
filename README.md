@@ -120,21 +120,16 @@ Catalyst offeres solution to help busineses to follow WHO guidelines of avoid cr
 Python 3.6.8
 
 ### Installation and running the code
+
+Befor running the code, for the application to recognise your face: Add your recent photograph in the *"actual_faces"* folder and update your relevant  information in *"employee_database.xlsx"* 
+
 ```
 git clone https://github.com/gopidoshi/Team_Unicorn_WiT_Hackathon.git
-```
-```
 cd mask_detection
-```
-```
 pip install -r requirements.txt
-```
-```
 python app.py
 ```
-Launch http://0.0.0.0:5000 in your browser
-
-For the application to recognise your face: Add your recent photograph in the *"actual_faces"* folder and update your relevant  information in *"employee_database.xlsx"* 
+Launch http://0.0.0.0:5000 in your browser and it will access the camera of your system.
 
 ## Getting started for Fastpass Queue Scheduling system
 
@@ -145,14 +140,8 @@ Node.JS
 ### Installation and running the code
 ```
 git clone https://github.com/gopidoshi/Team_Unicorn_WiT_Hackathon.git
-```
-```
 cd fastpass_and_UI
-```
-```
 npm install --registry=https://registry.npmjs.org
-```
-```
 npm start
 ```
 Launch http://0.0.0.0:8080 in your browser. If 8080 will be already in use, it will automatically try different port.
