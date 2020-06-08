@@ -35,12 +35,6 @@ can be detected and identified using AI-enabled edge intelligence and analytics 
 
 [![Watch the video](https://img.youtube.com/vi/ddgFhE_B66Y/maxresdefault.jpg)](https://youtu.be/ddgFhE_B66Y)
 
-## The architecture
-  ![Alt text](/hackathon_archi_part2.png)
-
-
-![Alt text](/hackathon_archi5.png)
-
 ## Long description
 
 ### USE CASE 1:
@@ -109,6 +103,12 @@ Catalyst offeres solution to help busineses to follow WHO guidelines of avoid cr
 - Identification of person from facial detection,tag him by his ID and sending notification on the go in cases of non-compliace, asking him to wear a mask and in repetitive cases, escalating notification to authorities.
 - Technologies enabling businesses to allow a person inside the premises only if he/she has a pass and is wearing a face mask does not yet exist currently.
  
+## The architecture
+  ![Alt text](/hackathon_archi_part2.png)
+
+
+![Alt text](/hackathon_archi5.png)
+
 ### Project roadmap
 <img src="/future_roadmap_mask_detection.jpg"  width="400" height="700"><img src="/future_roadmap_fastpass.jpg"  width="400" height="700">
 
